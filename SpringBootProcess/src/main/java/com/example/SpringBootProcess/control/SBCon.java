@@ -25,7 +25,7 @@ public class SBCon {
 	
 	@DeleteMapping("/erase")
 	public String name() {
-		System.out.println("siva from village");
+		System.out.println("this is the village");
 		return "no name to my name";
 		
 	}
